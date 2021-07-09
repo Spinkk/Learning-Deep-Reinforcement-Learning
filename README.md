@@ -1,4 +1,4 @@
-# Combining Reinforcement Learning, Deep Learning and Game theory approaches in building a poker bot
+# Combining Reinforcement Learning, Deep Learning and Game Theory Approaches in Building a Poker Bot
 
 This is the repository for a project undertaken by Janosch Bajorath and Mathis Pink for a deep Reinforcement Learning class (20/21) at Osnabrück University.
 
